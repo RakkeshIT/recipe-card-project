@@ -1,7 +1,7 @@
 export default function Landingpage () {
   return (
     <div>
-      <h1>Landingpage</h1>
+      <h1>Deployed</h1>
     </div>
   );
 };
